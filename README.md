@@ -9,7 +9,7 @@ The solution to this is to have your terminal prompt display the current branch 
 
 If you `cd` to a Git working directory, you will see the current Git branch name displayed in your terminal prompt along with any uncommoited changes locally and upstream. When you're not in a Git working directory, your prompt works like normal.
 
-<img width="911" height="365" alt="image" src="https://github.com/user-attachments/assets/f9b8886b-472e-47ae-bacd-71931ad8d319" />
+<img width="905" height="306" alt="image" src="https://github.com/user-attachments/assets/3fff9dbf-8246-47e2-95aa-f714ff8c4b02" />
 
 
 ## Installation
